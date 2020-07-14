@@ -1,7 +1,8 @@
-### Hi there 👋
 
 <!--
 **ctxzz/ctxzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+    <h3>Hi there :wave:</h3>
+    <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="cat" width="250" />
+</div>
